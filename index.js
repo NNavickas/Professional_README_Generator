@@ -3,6 +3,48 @@ const path = require("path");
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
+
+switch(license) {
+    case mit:
+      // code block
+      break;
+    case apache:
+      // code block
+      break;
+    case apache:
+      // code block
+      break;
+    case bsd2:
+        // code block
+      break;
+    case bsd3:
+            // code block
+      break;
+    case eclipse:
+        // code block
+      break;
+    case hippo2:
+      // code block
+      break;
+    case hippo3:
+      // code block
+      break;
+    case ibm:
+      // code block
+      break;
+    case isc:
+      // code block
+      break;
+    case mozilla:
+      // code block
+      break;
+    case perl:
+        // code block
+        break;
+    default:
+      // code block
+  }
+
 // array of questions for user
 
 inquirer
@@ -11,11 +53,6 @@ inquirer
     type: "input",
     message: "What is the title of your project?",
     name: "title",
-  },
-  {
-    type: "input",
-    message: "Enter a description of your project?",
-    name: "description",
   },
   {
     type: "input",
@@ -79,6 +116,7 @@ inquirer
 ## Installation
 
 To install the necessary dependencies, run the following command:
+
 ${response.install}
 
 ## Usage
