@@ -18,13 +18,13 @@ A CLI app to create a README.md file, using node.js. <br> The app helps to creat
 
 To install the necessary dependencies, run the following command:
 
-```<br>init -y<br>```
+``` npm i inquirer@6.5.0 ```
 
 ## Usage
 
 You can run this application using command 
 
-``` 
+``` node index.js ```
 
 ## License
 
@@ -40,9 +40,9 @@ In order to contribute, please fork and create a pull request.
 
 To test, run the following command:
 
-``` 
+``` npm test ```
 
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at hn. You can find more of my work at [My GitHub Profile]hn
+If you have any questions about the repo, open an issue or contact me directly at natalienavickas@hotmail.com. You can find more of my work at [My GitHub Profile]https://github.com/NNavickas
