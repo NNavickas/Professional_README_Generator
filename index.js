@@ -18,7 +18,7 @@ inquirer
   },
   {
     type: "input",
-    message: "What does the user need to install to use the application?",
+    message: "What does the user need to install to use the application? (use the backticks to present properly)",
     name: "install",
   },
   {
@@ -39,6 +39,11 @@ inquirer
       "Mozilla Public License 2.0",
       "The Perl License"
     ],
+  },
+  {
+    type: "input",
+    message: "What should the user run in order to test the application? (use the backticks to present properly)",
+    name: "testIt",
   },
   {
     type: "input",

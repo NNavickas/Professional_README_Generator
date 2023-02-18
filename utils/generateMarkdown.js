@@ -58,6 +58,8 @@ In order to contribute, please fork and create a pull request.
 
 To test, run the following command:
 
+${response.testIt}
+
 
 ## Questions
 
