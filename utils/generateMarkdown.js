@@ -32,12 +32,12 @@ ${badgeMarkdown}
 ${response.description}
 
 ## Table of Contents: 
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [Licensing](#Licensing)
-- [Contributions](#How_to_Contribute)
-- [Tests](#Testing)
-- [Questions](#Questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Licensing](#license)
+- [Contributions](#contributing-to-this-repo)
+- [Tests](#testing)
+- [Questions](#questions)
 
 ## Installation
 
@@ -52,6 +52,7 @@ You can run this application using command node index.js
 ## License
 
 This application is under license of ${response.license}
+
 ${badgeMarkdown}
 
 ## Contributing to this Repo
