@@ -2,7 +2,7 @@
   
   hi
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Project Description: 
 
@@ -20,7 +20,7 @@ hi
 
 To install the necessary dependencies, run the following command:
 
-```hi```
+hi
 
 ## Usage
 
@@ -28,9 +28,9 @@ You can run this application using command node index.js
 
 ## License
 
-This application is under license of Apache 2.0
+This application is under license of The MIT License
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing to this Repo
 
@@ -40,9 +40,9 @@ In order to contribute, please fork and create a pull request.
 
 To test, run the following command:
 
-```bye```
+hi
 
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at hi. You can find more of my work at [bye]
+If you have any questions about the repo, open an issue or contact me directly at hi. You can find more of my work at [My GitHub Profile]https://github.com/NNavickas
