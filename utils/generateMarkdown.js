@@ -21,11 +21,15 @@ function generateBadges(license) {
 
 
 function generateMarkdown(response, badgeMarkdown) {
-  return `# Project Title: ${response.title}
+  return `# Project Title: 
+  
+  ${response.title}
 
 ${badgeMarkdown}
 
-## Project Description: ${response.description}
+## Project Description: 
+
+${response.description}
 
 ## Table of Contents: 
 - [Installation](#Installation)

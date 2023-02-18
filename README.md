@@ -1,8 +1,12 @@
-# Project Title: hi
+# Project Title: 
+  
+  ho
 
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Project Description: hi
+## Project Description: 
+
+ho
 
 ## Table of Contents: 
 - [Installation](#Installation)
@@ -16,7 +20,7 @@
 
 To install the necessary dependencies, run the following command:
 
-hi
+ho
 
 ## Usage
 
@@ -24,8 +28,8 @@ You can run this application using command node index.js
 
 ## License
 
-This application is under license of BSD 2-Clause License
-[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
+This application is under license of The MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Contributing to this Repo
 
@@ -34,9 +38,10 @@ In order to contribute, please fork and create a pull request.
 ## Testing
 
 To test, run the following command:
-hi
+
+``` install ```
 
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at hi. You can find more of my work at [hi]
+If you have any questions about the repo, open an issue or contact me directly at ho. You can find more of my work at [ho]
