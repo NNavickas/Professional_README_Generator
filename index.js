@@ -73,7 +73,7 @@ inquirer
 
     const markdown = `${usersInfo}`;
 
-    fs.writeFile("README.md", markdown, (err) =>
+    fs.writeFile("GENERATEDREADME.md", markdown, (err) =>
       err ? console.error(err) : console.log("Your README has been generated")
     );
   });
