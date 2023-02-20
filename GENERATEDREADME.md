@@ -1,10 +1,10 @@
-# Project Title: Hello, World
+# Project Title: Hello, World!
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 ## Project Description: 
 
-A practice CLI app, building a READMEm using node.js
+The best project ever for making a README using a CLI app and using node.js
 
 ## Table of Contents: 
 - [Installation](#installation)
@@ -28,9 +28,9 @@ You can run this application using command
 
 ## License
 
-This application is under license of Boost 1.0
+This application is under license of BSD 2-Clause License
 
-[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 
 ## Contributing to this Repo
 
@@ -45,4 +45,4 @@ To test, run the following command:
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at hello@world.com. You can find more of my work at [My GitHub Profile]https://github.com/hello
+If you have any questions about the repo, open an issue or contact me directly at hello@world.test. You can find more of my work at [My GitHub Profile]https://github.com/NNavickas

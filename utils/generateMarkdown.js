@@ -79,7 +79,7 @@ ${response.testIt}
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at ${response.email}. You can find more of my work at [My GitHub Profile]${response.github}
+If you have any questions about the repo, open an issue or contact me directly at ${response.email}. You can find more of my work at [My GitHub Profile](${response.github})
 `;
 }
 
