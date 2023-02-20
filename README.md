@@ -7,6 +7,7 @@
 A CLI app to create a README.md file, using node.js. The app helps to create a professional README structure and includes badges pertaining to the license type chosen.
 
 Click the link below to see a demo of the app's functionality.
+
 [Demo Video](https://watch.screencastify.com/v/tBoV9Cesugxyn94dU7mm)
 
 ## Table of Contents: 
@@ -30,6 +31,7 @@ You can run this application using command:
 ``` node index.js ```
 
 The structure of the README is found in then generateMarkdown.js file. Make any alterations you'd like.
+
 Once you create your file, it will be generated as the GENERATEDREADME.md for you to use.
 
 ## License
